@@ -2,7 +2,7 @@
 const App = () => {
   return (
     <div>
-      App
+      App new Commit
     </div>
   )
 }
